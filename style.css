@@ -115,6 +115,8 @@ img {
 #name {
   outline: none;
   background-color: var(--color-base);
+  
+  
 }
 #name:focus {
   color: white;
